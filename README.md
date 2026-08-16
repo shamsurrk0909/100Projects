@@ -247,11 +247,6 @@ If you found this helpful:
 
 ---
 
-## 🎯 **Simpler Version (If You Prefer Shorter)**
-
-If you want a shorter, more concise README:
-
-````markdown
 # Quiz Game
 
 A simple interactive quiz game built with HTML, CSS, and JavaScript.
@@ -307,7 +302,7 @@ open index.html
 
 ## 📬 Contact
 
-Your Name - [@your-username](https://github.com/your-username)
+Email - shamsurrk0609@gmail.com
 
 ---
 
@@ -340,19 +335,4 @@ Project 01 of #100ProjectsLearningJourney
 
 ---
 
-## ✅ **Final Checklist**
 
-| Item                         | Status |
-| ---------------------------- | ------ |
-| README created for YOUR code | ✅     |
-| All features listed          | ✅     |
-| Installation instructions    | ✅     |
-| How to play guide            | ✅     |
-| Questions listed             | ✅     |
-| Tech stack shown             | ✅     |
-| Screenshots placeholder      | ✅     |
-| Your name/link added         | ✅     |
-
----
-
-**Just replace `your-username` and add your social links, and you're ready to go!** 🚀
