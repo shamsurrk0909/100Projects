@@ -56,28 +56,4 @@ git clone https://github.com/shamsurrk0909/100Projects.git
 cd 100Projects/Project_01_QuizGame
 open index.html
 ```
-
----
-
-## 📈 Progress
-
-```
-[████░░░░░░░░░░░░░░░░] 1/100 Complete
-```
-
----
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamsurrk0909)
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you find it useful!
-
-**Happy Coding!** 🚀
-
-</div>
 ```
